@@ -1,1 +1,2 @@
 # OrigamiDB
+Origami diagrams database
